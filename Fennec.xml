@@ -9,7 +9,7 @@
 			<file name="fennec.xml" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.xml" />
 		</update>
 	</info>
-  <element name="Fennec" type="Fennec" source="USER_CUSTOM" id="NEW_CUSTOM_RACE">
+  <element name="Fennec" type="RACE" source="USER_CUSTOM" id="NEW_CUSTOM_RACE">
     <supports>Fennec</supports>
     <description>
     <p>Fennecs are both vulpine and feline humanoids. They have the lush, furry tail of a fox, but it is long like a cat's. They have big ears like a fennec fox, but a shorter muzzle like a cat.They have a relatively similar body to humans, with the same bipedal limb structure. Their most notable feature is a pail of long whiskers dangling from their face. These whiskers end with crystalline deposits from minerals expelled from their body. The older a fennec is, the longer these whiskers. These are perhaps better described as feelers, as these tendril-like whiskers are actually quite muscled and can be manipulated almost like an octopus' tentacles. Their entire body is covered in fur with a wild variety of colors, including blue and yellow.</p>
