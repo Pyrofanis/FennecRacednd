@@ -9,7 +9,7 @@
 		</description>
 		<author>Pyrofani</author>
 		<update version="0.1.7">
-			<file name="fennec.xml" url="C:\Users\NahxEsAzul\Documents\5e Character Builder\custom\user\fennec.xml" />
+			<file name="fennec.xml" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.xml" />
 		</update>
 	</info>
   <element name="Fennec" type="Fennec" source="User_Custom" id="New_Custom_Race_Fennec">
