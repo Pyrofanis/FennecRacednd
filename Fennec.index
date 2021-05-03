@@ -4,7 +4,7 @@
 		<name>Fennec</name>
 		<description>Importing Fennec Race</description>
 		<update version="0.0.2">
-			<file name="Fennec.index" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.index" />
+			<file name="Fennec.index" url="https://raw.githubusercontent.com/Pyrofanis/FennecRacednd/main/Fennec.index" />
 		</update>
 	</info>
 	<files>
