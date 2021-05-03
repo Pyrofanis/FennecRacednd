@@ -8,6 +8,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="Fennec.xml" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.xml" />
+		<file name="Fennec.xml" url="https://raw.githubusercontent.com/Pyrofanis/FennecRacednd/main/Fennec.xml" />
 	</files>
 </index>
