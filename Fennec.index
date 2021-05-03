@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Fennec</name>
+		<description>This material is intended for use with the DarkSun campaign for D&amp;D 5e by Luca Zenari</description>
+		<update version="0.0.2">
+			<file name="Fennec.index" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.index" />
+		</update>
+	</info>
+	<files>
+		<file name="Fennec.xml" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.xml" />
+	</files>
+</index>
