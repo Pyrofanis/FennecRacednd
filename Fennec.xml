@@ -82,21 +82,22 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" />
 			<grant type="Racial Trait" id="ID_LASHING_WHISKERS"/>
 		</rules>
-		<element name="Lashing Whiskers" type="Racial Trait" source="Homebrew" id="ID_LASHING_WHISKERS">
+	</element>
+	<element name="Lashing Whiskers" type="Racial Trait" source="Homebrew" id="ID_LASHING_WHISKERS">
+		<description>
+			<p class="indent">
+				<strong>
+					<em>Lashing Whisker</em>
+				</strong>. Fennec whiskers are like whips with the crystal edge at the end. Your whiskers are considered natural weapons, with which you can make unarmed strikes. If you hit with it, it deals slashing damage equal to 1d4 + your Dexterity modifier and your reach for it is 5 feet greater than normal.</p>
+		</description>
+		<sheet>
 			<description>
 				<p class="indent">
 					<strong>
 						<em>Lashing Whisker</em>
 					</strong>. Fennec whiskers are like whips with the crystal edge at the end. Your whiskers are considered natural weapons, with which you can make unarmed strikes. If you hit with it, it deals slashing damage equal to 1d4 + your Dexterity modifier and your reach for it is 5 feet greater than normal.</p>
 			</description>
-			<sheet>
-				<description>
-					<p class="indent">
-						<strong>
-							<em>Lashing Whisker</em>
-						</strong>. Fennec whiskers are like whips with the crystal edge at the end. Your whiskers are considered natural weapons, with which you can make unarmed strikes. If you hit with it, it deals slashing damage equal to 1d4 + your Dexterity modifier and your reach for it is 5 feet greater than normal.</p>
-				</description>
-			</sheet>
-		</element>
+		</sheet>
+
 	</element>
 </elements>
