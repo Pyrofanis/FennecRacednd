@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Fennec</name>
-		<description>This material is intended for use with the DarkSun campaign for D&amp;D 5e by Luca Zenari</description>
+		<description>Importing Fennec Race</description>
 		<update version="0.0.2">
 			<file name="Fennec.index" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.index" />
 		</update>
