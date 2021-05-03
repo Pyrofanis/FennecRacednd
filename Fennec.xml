@@ -6,7 +6,7 @@
 		</description>
 		<author>Pyrofani</author>
 		<update version="0.1.7">
-			<file name="fennec.xml" url="https://github.com/Pyrofanis/FennecRacednd/blob/main/Fennec.xml" />
+			<file name="fennec.xml" url="https://raw.githubusercontent.com/Pyrofanis/FennecRacednd/main/Fennec.xml" />
 		</update>
 	</info>
   <element name="Fennec" type="Race" source="USER_CUSTOM" id="NEW_CUSTOM_RACE">
