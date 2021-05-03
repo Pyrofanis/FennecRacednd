@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<elements>
+	<info>
+		<name>Fennec</name>
+		<description>
+		<p>Fennecs are both vulpine and feline humanoids. They have the lush, furry tail of a fox, but it is long like a cat's. They have big ears like a fennec fox, but a shorter muzzle like a cat.
+	  They have a relatively similar body to humans, with the same bipedal limb structure. Their most notable feature is a pail of long whiskers dangling from their face. These whiskers end with crystalline deposits from minerals expelled from their body. The older a fennec is, the longer these whiskers. These are perhaps better described as feelers, as these tendril-like whiskers are actually quite muscled and can be manipulated almost like an octopus' tentacles. Their entire body is covered in fur with a wild variety of colors, including blue and yellow.</p>
+		</description>
+		<author>Pyrofani</author>
+		<update version="0.1.7">
+			<file name="fennec.xml" url="C:\Users\NahxEsAzul\Documents\5e Character Builder\custom\user\fennec.xml" />
+		</update>
+	</info>
+  <element name="Fennec" type="Fennec" source="User_Custom" id="New_Custom_Race_Fennec">
+    <supports>Fennec</supports>
+    <description>
+      <p class="indent"><strong><em>Ability Score Increase.</em></strong>Your Charisma score increases by 3</p>
+	  <h4><strong>Traits</strong></h4>
+	  <p><strong>Age</strong>. Fennecs have an average lifespan of 170 years. They mature early at around 13.</p>
+	  <p><strong>Alignment</strong>. Having been betrayed and enslaved, fennecs see the world as a battleground.<br> They retaliate with equally chaotic behavior.</p>
+	  <p><strong>Size</strong>. Fennec sizes are on the shorter end. Your size is Medium.</p>
+	  <p><strong>Speed</strong>. The Fennec's base speed is 30 feet.</p>
+	  <p><strong>Darkvision</strong>. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.<br> You can't discern color in darkness, only shades of gray.</p>
+	  <p><strong>Lashing Whisker</strong>. Fennec whiskers are like whips with the crystal edge at the end.<br> Your whiskers are considered natural weapons, with which you can make unarmed strikes. If you hit with it, it deals slashing damage equal to 1d4 + your Dexterity modifier and your reach for it is 5 feet greater than normal.</p>
+		<p><strong>Dark Magics</strong>. You have innate magic asleep in your blood. You can cast the bane spell at its lowest level, without material components once.<br> Starting at 3rd level, you can cast the shadow blade spell at its lowest level, without material components once. Once you cast either spell, you can't cast it again with this trait until you finish a long rest.</p>
+		<p><strong>Suspicion</strong>. You have learned to be highly critical of others and observe for those who may betray you.<br> You are proficient in the Insight skill.</p>
+		<p><strong>Hunted Prey</strong>. As you fear for your life coming from a common slave race, you have tactics to evade those who may wish to subjugate you.<br> When in an urban environment, you have advantage on Dexterity (Stealth) checks.</p>
+		<p><strong>Languages</strong>. You can speak, read and write in Common.</p>
+	</description>
+    <rules>
+      <stat name="charisma" value="3" />      
+    </rules>
+  </element>
+
+</elements>
