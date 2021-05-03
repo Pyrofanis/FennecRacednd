@@ -27,7 +27,11 @@
 		<p><strong>Languages</strong>. You can speak, read and write in Common.</p>
 	</description>
     <rules>
-      <stat name="charisma" value="3" />      
+      <stat name="charisma" value="3" />    
+  	<stat name="innate speed" value="30" bonus="base" />
+            <grant type="Size" id="ID_SIZE_SMALL" />
+            <grant type="Vision" id="ID_VISION_DARKVISION" />
+            <grant type="Language" id="ID_LANGUAGE_COMMON" />
     </rules>
   </element>
 
